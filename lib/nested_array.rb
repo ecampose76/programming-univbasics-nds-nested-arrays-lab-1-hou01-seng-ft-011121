@@ -57,5 +57,6 @@ def matrix_update(matrix, row, column, new_value)
   # Return the updated 
   
 matrix[row][column][2] = "Lemon"
+matrix
 
 end
